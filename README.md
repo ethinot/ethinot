@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethinot&label=Profile%20views&color=0e75b6&style=flat" alt="ethinot" /> </p>
 
-- 🌱 I’m currently learning **Ansible, continuous deployment and network configuration for 802.1X authentification**
+- 🌱 I’m currently learning managing a large project and all the conception and organization behind.
 
-- 💬 Ask me about **C++ / Cisco equipment / Networking**
+- 💬 Ask me about **C++ / Network equipments / CI/CD / IaaS / 802.1X authentification **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
