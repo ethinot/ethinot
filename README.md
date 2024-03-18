@@ -1,6 +1,6 @@
 [![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/02/20160628_1516_FTI_Cyber_Security.gif)](https://github.com/ethinot)
 <h1 align="center">Hi 👋, I'm Edouard Thinot</h1>
-<h3 align="center">A passionate about computer science, especially system and network administration.</h3>
+<h3 align="center">A passionate about computer science, especially cybersecurity.</h3>
 <img align="right" alt="Coding" width="500" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 
