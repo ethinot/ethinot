@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning managing a large project and all the conception and organization behind.
 
-- 💬 Ask me about **C++ / Network equipments / CI/CD / IaaS / 802.1X authentification **
+- 💬 Ask me about **C++ / Network equipments / CI/CD / IaaS / 802.1X authentification**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
