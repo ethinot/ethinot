@@ -7,8 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethinot&label=Profile%20views&color=0e75b6&style=flat" alt="ethinot" /> </p>
 
-- 🌱 I’m currently learning managing a large project and all the conception and organization behind.
-
+- 🌱 I’m currently learning Terraform through the automatization of AWS IaaS.
 - 💬 Ask me about **C++ / Network equipments / CI/CD / IaaS / 802.1X authentification**
 
 <h3 align="left">Connect with me:</h3>
